@@ -9,4 +9,6 @@ Boundary Mission
  See project-brief.md for the full brief
  
 ## Month 2: development environment and early Python
-Week 5: set up Python, VS Code and the terminal. hello.py runs. 
+Week 5: set up Python, VS Code and the terminal. hello.py runs.
+
+Week 8: I used the states1 csv file. I have uploaded the data to my Github respository. 
